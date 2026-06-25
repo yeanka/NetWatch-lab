@@ -1,4 +1,4 @@
-# 🛡️ NetWatch — Network Anomaly Detection with Machine Learning
+# NetWatch — Network Anomaly Detection with Machine Learning
 
 > A beginner-friendly ML + cybersecurity project that simulates real network traffic, engineers meaningful features, and trains an Isolation Forest model to automatically flag anomalous connections — no labelled attack data required.
 
@@ -10,7 +10,7 @@
 
 ---
 
-## 📖 What This Project Does
+## What This Project Does
 
 Traditional intrusion detection relies on known attack signatures — but what about attacks that have never been seen before? This project builds an **unsupervised anomaly detector** that learns what *normal* network traffic looks like and automatically flags anything that deviates from it.
 
@@ -28,7 +28,7 @@ No labelled attack examples needed. The model learns normal, then hunts for the 
 
 ---
 
-## 🗂️ Repository Structure
+## Repository Structure
 
 ```
 netwatch/
@@ -61,7 +61,7 @@ netwatch/
 
 ---
 
-## 🚀 Quick Start
+## Quick Start
 
 ```bash
 # 1. Clone and install
@@ -97,7 +97,7 @@ open dashboard/netwatch_dashboard.html
 
 ---
 
-## 🔬 Features Engineered
+## Features Engineered
 
 | Feature | Type | Security Meaning |
 |---------|------|-----------------|
@@ -114,7 +114,7 @@ open dashboard/netwatch_dashboard.html
 
 ---
 
-## 🧠 Why Unsupervised Learning?
+## Why Unsupervised Learning?
 
 ```
 Supervised ML:          Unsupervised ML (this project):
@@ -150,7 +150,7 @@ This project uses **synthetic/simulated** network data for educational purposes.
 
 ## 👤 Author
 
-**[Your Name]** | Cybersecurity & ML Researcher  
-📧 your@email.com | [GitHub](https://github.com) | [LinkedIn](https://linkedin.com)
+**Adeolu Yeanka** | Cybersecurity & ML Researcher  
+📧 your@email.com | [GitHub](https://www.linkedin.com/in/olayinka-a-6901741b5/) | [LinkedIn](https://linkedin.com.yeanka)
 
-*Part of my cybersecurity + ML portfolio for graduate school applications.*
+*Part of my cybersecurity + ML portfolio training*
