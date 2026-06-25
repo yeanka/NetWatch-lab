@@ -1,4 +1,4 @@
-# NetWatch — Network Anomaly Detection with Machine Learning
+# NetWatch - Network Anomaly Detection with Machine Learning
 
 > A beginner-friendly ML + cybersecurity project that simulates real network traffic, engineers meaningful features, and trains an Isolation Forest model to automatically flag anomalous connections — no labelled attack data required.
 
